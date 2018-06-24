@@ -1,0 +1,72 @@
+[{
+    "id": 1,
+    "name": "M",
+    "image": "./images/Apu.png"
+  },
+
+  {
+    "id": 2,
+    "name": "D",
+    "image": "./images/Bart.png"
+  },
+
+  {
+    "id": 3,
+    "name": "B",
+    "image": "./images/Flanders.png"
+  },
+
+  {
+    "id": 4,
+    "name": "L",
+    "image": "./images/Homer.png"
+  },
+
+  {
+    "id": 5,
+    "name": "J",
+    "image": "./images/Krusty.png"
+  },
+
+  {
+    "id": 6,
+    "name": "T",
+    "image": "./images/Lisa.png"
+  },
+
+  {
+    "id": 7,
+    "name": "I",
+    "image": "./images/Maggie.png"
+  },
+
+  {
+    "id": 8,
+    "name": "N",
+    "image": "./images/Marge.png"
+  },
+
+  {
+    "id": 9,
+    "name": "R",
+    "image": "./images/Moe.png"
+  },
+
+  {
+    "id": 10,
+    "name": "ANKH",
+    "image": "./images/MrBurns.png"
+  },
+
+  {
+    "id": 11,
+    "name": "V",
+    "image": "./images/Otto.png"
+  },
+
+  {
+    "id": 12,
+    "name": "S",
+    "image": "./images/Willy.png"
+  }
+]
